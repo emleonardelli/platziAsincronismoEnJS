@@ -7,3 +7,4 @@
 ## Comandos utilizados
 - npm run callback
 - npm run callback:challenge
+- npm run promise
